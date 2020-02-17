@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is b.txt ver 1
+=======
+This is b.txt ver2
+>>>>>>> feature2
